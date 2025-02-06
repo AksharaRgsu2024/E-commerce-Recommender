@@ -13,7 +13,7 @@ The data analysis pipeline involved the below steps:
 - KNN Clustering     
 
 Libraries used:
-Pandas, Skikit-learn, PySpark, Seaborn, Surprise    
+Pandas, Scikit-learn, PySpark, Seaborn, Surprise    
 
 The Dataset is from a public dataset from OList, a Brazilian Ecommerce store:  
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_products_dataset.csv]    

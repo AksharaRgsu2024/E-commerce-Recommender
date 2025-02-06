@@ -12,11 +12,11 @@ The data analysis pipeline involved the below steps:
 - Alternating Least Squares (ALS)  
 - KNN Clustering     
 
-The Dataset is from a public dataset from OList, a Brazilian Ecommerce store:  
-https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_products_dataset.csv]  
-
 Libraries used:
-Pandas, Skikit-learn, PySpark, Seaborn
+Pandas, Skikit-learn, PySpark, Seaborn, Surprise    
+
+The Dataset is from a public dataset from OList, a Brazilian Ecommerce store:  
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_products_dataset.csv]    
 
 References:  
 [1] https://medium.com/@brunoborges_38708/recommender-system-using-als-in-pyspark-10329e1d1ee1  

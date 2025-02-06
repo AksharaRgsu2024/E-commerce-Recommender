@@ -21,9 +21,8 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_product
 References:  
 [1] https://medium.com/@brunoborges_38708/recommender-system-using-als-in-pyspark-10329e1d1ee1  
 [2] https://towardsdatascience.com/recommendation-system-matrix-factorization-d61978660b4b  
-[3] https://medium.com/@eliasah/deep-dive-into-matrix-factorization-for-recommender-systems-from-basics-to-implementation-79e4f1ea1660  
-[4] https://tatevkarenaslanyan.medium.com/using-customer-and-product-features-in-recommender-systems-2734258873cf#:~:text=Matrix%20Factorization,and%20Item%20Factor%20matrices%2C%20respectively.     
-[5] https://haneulkim.medium.com/matrix-factorization-part-i-from-derivation-of-stochastic-gradient-descent-step-to-learning-17a7d8975965  
+[3] https://medium.com/@eliasah/deep-dive-into-matrix-factorization-for-recommender-systems-from-basics-to-implementation-79e4f1ea1660    
+[4] https://haneulkim.medium.com/matrix-factorization-part-i-from-derivation-of-stochastic-gradient-descent-step-to-learning-17a7d8975965  
 
 
 
